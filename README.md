@@ -1,2 +1,2 @@
-# shitty_bot
+# Shitty bot
 A shitty discord bot
