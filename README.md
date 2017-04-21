@@ -11,4 +11,4 @@
 - urllib.request
 - urllib
 - urllib.parse
-- BeautifulSoup
+- BeautifulSoup (bs4)
