@@ -7,7 +7,7 @@
 - requests
 - pyowm
 - re
-- import json
+- json
 - urllib.request
 - urllib
 - urllib.parse
