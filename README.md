@@ -12,4 +12,5 @@
 - urllib
 - urllib.parse
 - BeautifulSoup (bs4)
-\n\n
+
+You can directly [click here](https://discordapp.com/oauth2/authorize?client_id=287206042134380554&scope=bot&permissions=0) to add the bot to your discord server
