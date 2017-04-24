@@ -38,7 +38,6 @@ async def on_message(message):
     qui = str(message.author)
     azerty = 0
     nombre = random.randint(0,100)
-    # we do not want the bot to reply to itself
     if message.author == client.user:
         return
 
